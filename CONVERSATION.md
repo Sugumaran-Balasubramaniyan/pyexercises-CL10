@@ -103,3 +103,24 @@ print(check_budget(80, 100))   # Should print "Under"
 ```
 
 What does the function return when `spent` equals `limit`?
+
+---
+## 2026-11-10 16:31, in .
+
+**Me:** how to save a list of numbers in python
+
+**Tutor:**
+
+Storing a list of numbers in Python.
+
+```python
+# Create a list of numbers
+numbers = [3, 1, 4, 1, 5, 9]
+
+# Save it to a file
+with open('numbers.txt', 'w') as file:
+    for num in numbers:
+        file.write(f"{num}\n")  # TODO: write each number on its own line
+```
+
+What is the mode argument ('w') used for in open()?
