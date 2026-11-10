@@ -45,8 +45,8 @@ person = {
     "name": name,
     "age": age,
     "city": city,
-    "country": country,
-}   
+    "country": country
+    }
 
 
 print("The person's age is: ", person["age"])
