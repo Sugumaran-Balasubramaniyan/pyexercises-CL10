@@ -82,3 +82,24 @@ def ask_user_name():
 ```
 
 What function do you use to convert the string returned by `input()` into an integer?
+
+---
+## 2026-11-10 15:46, in .
+
+**Me:** example for if else condition
+
+**Tutor:**
+
+A conditional statement that runs different code based on a condition.
+
+```python
+def check_budget(spent, limit):
+    # TODO: return "Over" if spent > limit, else return "Under"
+    pass
+
+# Example usage (toy data)
+print(check_budget(150, 100))  # Should print "Over"
+print(check_budget(80, 100))   # Should print "Under"
+```
+
+What does the function return when `spent` equals `limit`?
