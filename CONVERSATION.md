@@ -141,3 +141,20 @@ def greet(name):
 ```
 
 What is the keyword used to define a function in Python?
+
+---
+## 2026-11-16 13:04, in .
+
+**Me:** how to get a return from a function in python
+
+**Tutor:**
+
+Returning a value from a function.
+
+```python
+def calculate_profit(cost, revenue):
+    # TODO: compute the profit and return it
+    pass
+```
+
+What keyword is used to send a value back from a function?
