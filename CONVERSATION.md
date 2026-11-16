@@ -124,3 +124,20 @@ with open('numbers.txt', 'w') as file:
 ```
 
 What is the mode argument ('w') used for in open()?
+
+---
+## 2026-11-16 12:54, in .
+
+**Me:** how to write a function in python
+
+**Tutor:**
+
+A function is a reusable block of code that performs a single task.
+
+```python
+def greet(name):
+    # TODO: return a greeting string that includes the given name
+    pass
+```
+
+What is the keyword used to define a function in Python?
